@@ -1,0 +1,126 @@
+[
+  {
+    "sourceId": "src-001",
+    "offerId": "OFR-100",
+    "telephone": "+39 333 111 2222",
+    "createdAt": "2025-09-28T14:03:00Z",
+    "shipmentStatus": null,
+    "transactionValue": null,
+    "customerName": "Mario Rossi"
+  },
+  {
+    "sourceId": "src-002",
+    "offerId": "OFR-200",
+    "telephone": "(+39)3331112222",
+    "createdAt": "2025-09-29T09:10:00Z"
+  },
+  {
+    "sourceId": "src-003",
+    "offerId": "OFR-100",
+    "telephone": "0039-333-111-2222",
+    "createdAt": "2025-09-30T11:25:00Z",
+    "customerName": "Maria Bianchi"
+  },
+  {
+    "sourceId": "src-004",
+    "offerId": "OFR-300",
+    "telephone": "351 912 345 678",
+    "createdAt": "2025-09-20T08:00:00Z"
+  },
+  {
+    "sourceId": "src-005",
+    "offerId": "OFR-200",
+    "telephone": "351-912-345-678",
+    "createdAt": "2025-09-20T10:05:00Z"
+  },
+  {
+    "sourceId": "src-006",
+    "offerId": "OFR-100",
+    "telephone": "+351912345678",
+    "createdAt": "2025-09-22T16:40:00Z"
+  },
+  {
+    "sourceId": "src-007",
+    "offerId": "OFR-400",
+    "telephone": "(001) 555 0000",
+    "createdAt": "2025-09-15T07:00:00Z"
+  },
+  {
+    "sourceId": "src-008",
+    "offerId": "OFR-400",
+    "telephone": "001-555-0000",
+    "createdAt": "2025-09-25T07:00:00Z"
+  },
+  {
+    "sourceId": "src-009",
+    "offerId": "OFR-500",
+    "telephone": "0044 7123 987654",
+    "createdAt": "2025-09-26T13:20:00Z"
+  },
+  {
+    "sourceId": "src-010",
+    "offerId": "OFR-500",
+    "telephone": "+44 (0)7123 987654",
+    "createdAt": "2025-09-27T21:45:00Z"
+  },
+  {
+    "sourceId": "src-011",
+    "offerId": "OFR-300",
+    "telephone": "555-1234",
+    "createdAt": "2025-09-10T10:10:00Z"
+  },
+  {
+    "sourceId": "src-012",
+    "offerId": "OFR-600",
+    "telephone": "0039 340 555 6677",
+    "createdAt": "2025-09-12T12:00:00Z"
+  },
+  {
+    "sourceId": "src-013",
+    "offerId": "OFR-600",
+    "telephone": "+39-340-555-6677",
+    "createdAt": "2025-09-14T12:00:00Z"
+  },
+  {
+    "sourceId": "src-014",
+    "offerId": "OFR-700",
+    "telephone": "0039-333-111-2222",
+    "createdAt": "2025-09-29T10:12:00Z"
+  },
+  {
+    "sourceId": "src-015",
+    "offerId": "OFR-100",
+    "telephone": "351.912.345.678",
+    "createdAt": "2025-09-30T11:55:00Z"
+  },
+  {
+    "sourceId": "src-016",
+    "offerId": "OFR-300",
+    "telephone": "+1 202 555 0119",
+    "createdAt": "2025-09-18T08:30:00Z"
+  },
+  {
+    "sourceId": "src-017",
+    "offerId": "OFR-300",
+    "telephone": "12025550119",
+    "createdAt": "2025-09-20T08:30:00Z"
+  },
+  {
+    "sourceId": "src-018",
+    "offerId": "OFR-800",
+    "telephone": "+351 912 345 678",
+    "createdAt": "2025-10-01T10:00:00Z"
+  },
+  {
+    "sourceId": "src-019",
+    "offerId": "OFR-900",
+    "telephone": "+39 333-111-2222",
+    "createdAt": "2025-10-01T11:00:00Z"
+  },
+  {
+    "sourceId": "src-020",
+    "offerId": "OFR-900",
+    "telephone": "3331112222",
+    "createdAt": "2025-09-01T09:00:00Z"
+  }
+]
